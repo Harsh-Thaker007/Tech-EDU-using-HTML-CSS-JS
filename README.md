@@ -10,7 +10,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fproject-management-logo&psig=AOvVaw0bmboyLzBY7rqr2AUvFxWo&ust=1675492273931000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDr8Z_d-PwCFQAAAAAdAAAAABAI" alt="Logo" width="80" height="80">
+    <img src="https://png.pngtree.com/element_our/md/20180413/md_5ad0d096e0de4.jpg"
+  alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -61,8 +62,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Harsh-Thaker`, `Tech-EDU`, `harsh-thaker`, `xyz`, `education-webiste`,
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # TECH-EDU-WEBSITE
