@@ -128,6 +128,6 @@ Blockquote	> blockquote origin feature/AmazingFeature`)
 
 ## ProjectDuration
 
-**Started** :- 1<sup>st</sup>jan 
+**Started** :- 1<sup>st</sup> Jan 2023
 
-**Completed** :- 15<sup>st</sup>Jan
+**Completed** :- 15<sup>st</sup> Jan 2023
