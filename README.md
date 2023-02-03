@@ -60,9 +60,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![product]()
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Harsh-Thaker`, `Tech-EDU`, `harsh-thaker`, `xyz`, `education-webiste`,
+** Made BY and futher communication Details **  `Harsh-Thaker`, `Tech-EDU`, `harsh-thaker`, `xyz`, `education-webiste`,
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # TECH-EDU-WEBSITE
@@ -74,9 +74,9 @@ Hello and welcome 👋. This is the repository for the Education Website.
 
 This project uses modern tooling to build the site. Below is a list of those tools and resources you can find to learn more about them in case you are interested in contributing to the project in the future.
 
-- [HTML5]
-- [CSS3]
-- [JavaScript]
+- ```HTML5
+- CSS3
+- JavaScript
 
 
 ## Getting Started
