@@ -60,9 +60,10 @@
 
 ## About The Project
 
-![product]()
+![image](https://user-images.githubusercontent.com/109859710/216546154-b877871d-670c-4f6a-a1e0-420c2661994d.png)
 
-** Made BY and futher communication Details **  `Harsh-Thaker`, `Tech-EDU`, `harsh-thaker`, `xyz`, `education-webiste`,
+
+**Made BY and futher communication Details**  `Harsh-Thaker`, `Tech-EDU`, `harsh-thaker`, `xyz`, `education-webiste`,
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # TECH-EDU-WEBSITE
@@ -74,10 +75,10 @@ Hello and welcome 👋. This is the repository for the Education Website.
 
 This project uses modern tooling to build the site. Below is a list of those tools and resources you can find to learn more about them in case you are interested in contributing to the project in the future.
 
-- ```HTML5
+- HTML5
 - CSS3
 - JavaScript
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
@@ -86,13 +87,19 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 -HTML5
+
 -CSS3
+
 -JavsScript
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
 1.Needed Terminal ```VSCODE```
-2.Just got to my GIT-HUID and copy the URL [clickhere](https://github.com/Harsh-Thaker007/Tech-EDU-using-HTML-CSS-JS)
+
+2.Just go to my GIT-HUBID and copy the URL [clickhere](https://github.com/Harsh-Thaker007/Tech-EDU-using-HTML-CSS-JS)
+
 3.USe <b>Command</b> in terminal: Git clone and ```paste URL here```
 
 ## Contributing
@@ -108,9 +115,12 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact
 
 | Name | Email    | Git-Hub Link   |
 | :---:   | :---: | :---: |
-| Harsh | xyz@gmail.com | git  |
+| Harsh | xyz@gmail.com | [git](https://github.com/Harsh-Thaker007/Tech-EDU-using-HTML-CSS-JS)  |
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
